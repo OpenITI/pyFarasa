@@ -1,4 +1,4 @@
-# farasaPython
+# pyFarasa
 Python wrapper for the farasa segmenter and POS tagger
 
 Farasa is an nlp toolkit for Arabic, developed by the Qatar Computing Research Institute. 
@@ -6,7 +6,7 @@ It contains a segmenter, a POS tagger, a lemmatizer, a named entity recognition 
 
 It can be used online, via an API, or locally, using java jar files. 
 
-farasaPython is a lightweight Python wrapper for the farasa segmenter and POS tagger. 
+pyFarasa is a lightweight Python wrapper for the Farasa segmenter and POS tagger. 
 The script will create a new file that contains the segmented / tagged text, 
 and can be used to process either single files or entire directories of files.
 
