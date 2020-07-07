@@ -11,6 +11,7 @@ The script will create a new file that contains the segmented / tagged text,
 and can be used to process either single files or entire directories of files.
 
 Usage examples:
+
     # in Python:
       > from farasa import batch_process, segment, POS_tag
       > segment(test.txt, test_segmented.txt, restore_ta_marbuta=True)
